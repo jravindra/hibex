@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.rj;
 
 import java.util.Date;
 

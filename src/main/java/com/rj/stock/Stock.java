@@ -1,4 +1,4 @@
-package com.mkyong.stock;
+package com.rj.stock;
 
 import java.util.HashSet;
 import java.util.Set;

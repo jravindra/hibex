@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.rj;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import org.hibernate.Criteria;
 import org.hibernate.Session;
 import org.hibernate.criterion.Restrictions;
 
-import com.mkyong.util.HibernateUtil;
+import com.rj.util.HibernateUtil;
 
 public class App {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.mkyong.stock;
+package com.rj.stock;
 
 import java.util.Date;
 import javax.persistence.Column;
